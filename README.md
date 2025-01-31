@@ -11,3 +11,7 @@
 **MENTOR NAME**: Neela Santhosh
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
+
+ # OUTPUT OF THE TASK
+
+ [code1.md](https://github.com/user-attachments/files/18619854/code1.md)
